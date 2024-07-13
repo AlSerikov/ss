@@ -34,7 +34,7 @@ static el_t *curr=NULL;
 int main(){
 
     add_el(1);
-    add_el(11);
+   
     add_el(12);
     add_el(13);
     look_add_el();
